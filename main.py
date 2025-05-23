@@ -9,8 +9,8 @@ import webbrowser
 from langdetect import detect
 
 # API credentials (placeholders, replace with your own)
-API_KEY = "AIzaSyAcZ6KgA7pCIa_uf8-bYdWR85vx6-dWqDg"
-ENGINE_ID = "aa2313d6c88d1bf22"
+API_KEY = "your_key"
+ENGINE_ID = "your_id"
 
 # Sample suggestions
 suggestions = {
