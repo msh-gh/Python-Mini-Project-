@@ -29,11 +29,17 @@ Webbrowser module for opening URLs
 Usage
 ------
 1.Enter the name of the song in the input field. 
+
 2.Click "Get Lyrics" to fetch the lyrics.
+
 3.Click "Analyze Mood" to see the sentiment and mood of the lyrics.
+
 4.View recommended songs based on the mood.
+
 5.Save the lyrics as TXT or PDF using the respective buttons.
+
 6.Use "Search in Browser" to find lyrics online.
+
 7.Clear all fields with the "Clear" button.
 
 Developer
