@@ -19,11 +19,17 @@ Key Features
 Technologies Used
 ------------------
 Python 3
+
 Tkinter for GUI
+
 Lyrics Extractor API for fetching lyrics
+
 TextBlob for sentiment analysis
+
 FPDF for PDF generation
+
 Langdetect for language detection
+
 Webbrowser module for opening URLs
 
 Usage
