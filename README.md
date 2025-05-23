@@ -1,4 +1,4 @@
-# Python-Mini-Project-
+# Python Mini Project : AI-Based Lyrics Extractor & Analyzer
 This mini-project, developed using Python during my 6th semester in B.Tech CSE at Anurag University
 
 **AI-Based Lyrics Extractor & Analyzer**
